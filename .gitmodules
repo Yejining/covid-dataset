@@ -1,0 +1,3 @@
+[submodule "geodata"]
+	path = geodata
+	url = https://github.com/seongbuming/geodata.git
