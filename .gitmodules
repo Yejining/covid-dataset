@@ -1,3 +1,6 @@
 [submodule "geodata"]
 	path = geodata
 	url = https://github.com/seongbuming/geodata.git
+[submodule "covid-policy-tracker"]
+	path = covid-policy-tracker
+	url = https://github.com/Yejining/covid-policy-tracker.git
