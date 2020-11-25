@@ -10,3 +10,6 @@
 [submodule "USA-covid-policy"]
 	path = USA-covid-policy
 	url = https://github.com/Yejining/USA-covid-policy.git
+[submodule "Brazil-covid-policy"]
+	path = Brazil-covid-policy
+	url = https://github.com/Yejining/Brazil-covid-policy.git
